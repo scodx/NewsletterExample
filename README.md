@@ -54,6 +54,9 @@ the mod_rewrite module enabled.
 How to use the app
 ==================
 
+While it shouldn't be any configurations problems, the safest option to run the app is going directly to the
+app_dev.php file, this is Dev environment entry point.
+
 ## For public use
 Access the application, you will see a form that you need to fill to subscribe to a topic, fill the form, select
 a topic and click subscribe.
